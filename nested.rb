@@ -82,7 +82,7 @@ def adding_matz
         }
      }
 
-    programmer_hash[:newlyaddedto] = "I'm New!"
+    :newlyaddedto = "I'm New!"
 end
 
 def changing_alan
